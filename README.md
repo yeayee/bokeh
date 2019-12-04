@@ -1,7 +1,10 @@
-# bokeh_CN（bokeh 中文教程）
-Python数据可视化基于Bokeh的动态可视化绘图，没图说个鸡毛！
+# bokeh_CN（bokeh 中文教程）  
+
+Bokeh是基于D3.js强大的数据可视化库，用Django、Flask实现数据动态可视化，有效保证企业数据安全，当然，没图说个JB！下图数据采集于2019-12：
 
 ![avatar](./bokeh_plot.png)  
 
-学习交流扫一扫俺的GItHub头像
+# 以下公众号，值得关注一波：）  
+
+## 201912-01
 
