@@ -12,7 +12,6 @@ Bokeh是基于D3.js强大的数据可视化库，用Django、Flask实现数据�
 ### 恋习Python
 ![avatar](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIzNTg3MDQyMQ==&mid=2247486086&idx=3&sn=bcc1b8a2da392a67b9f4e61ec6a8c16c&send_time=)
 
- 
-
-
 ## 2019-12-12  
+### 马里奥玩python
+![avatar](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUyNjg4Mjc1OA==&mid=2247484312&idx=1&sn=c617b6efa9c4e1ead1ee9cc3ea60265d&send_time=)
