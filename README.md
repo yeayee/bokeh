@@ -6,7 +6,8 @@ Bokeh是基于D3.js强大的数据可视化库，用Django、Flask实现数据�
   
 ![avatar](bokeh_plot.png)  
 
-  
+![avatar](http://mmbiz.qpic.cn/mmbiz_jpg/IibI9vLwhVBNMMcoY5lndZ2icEuAlTuES8bKTAJO11bgiaEcHjfBZ0aoYjOWzFe9Z1Rf7y9JF7ZS4Q7JA4RgyAjog/0)   
+ 微信扫一扫进入圈子  
 # 以下公众号，值得关注一波：）  
 ## 2019-12-01
 ### Python爱好者社区  
