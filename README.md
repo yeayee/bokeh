@@ -5,7 +5,7 @@ Bokeh是基于D3.js强大的数据可视化库，用Django、Flask实现数据�
 
  
 
-![avatar](pic3.zhimg.com/80/v2-c66cc9761380d8c95032714bca76307e_720w.jpg)
+![image](https://pic3.zhimg.com/80/v2-c66cc9761380d8c95032714bca76307e_720w.jpg)
 
  
  
